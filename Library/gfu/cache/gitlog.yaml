@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-03-15T13:00:26.720+07:00
+  initializedAtString: 2020-03-15T11:45:19.364+07:00
+  log:
+  - commitID: c9a54d7d4155b9a9d4b8152439168a2ede63d79a
+    mergeA: 
+    mergeB: 
+    authorName: septakusumaningtyas
+    authorEmail: septakusumaningtyas@gmail.com
+    commitEmail: septakusumaningtyas@gmail.com
+    commitName: septakusumaningtyas
+    summary: Revert "Initial commit"
+    description: This reverts commit db7ad1d99c66f17a596ba1ea991098726b3ea662.
+    timeString: 2020-03-15T12:07:22.000+07:00
+    commitTimeString: 2020-03-15T12:07:22.000+07:00
+    changes:
+    - path: .gitattributes
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: db7ad1d99c66f17a596ba1ea991098726b3ea662
+    mergeA: 
+    mergeB: 
+    authorName: septakusumaningtyas
+    authorEmail: septakusumaningtyas@gmail.com
+    commitEmail: septakusumaningtyas@gmail.com
+    commitName: septakusumaningtyas
+    summary: Initial commit
+    description: 
+    timeString: 2020-03-15T11:45:18.000+07:00
+    commitTimeString: 2020-03-15T11:45:18.000+07:00
+    changes:
+    - path: .gitattributes
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
