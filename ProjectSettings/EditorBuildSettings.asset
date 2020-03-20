@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Instruction.unity
     guid: 3043ba276e04abb438c2f24971324d9e
   - enabled: 1
-    path: Assets/Scenes/GamePlay.unity
+    path: Assets/Scenes/GamePlaySpring.unity
     guid: 43e3c64af2c3aaa4281e2445107c1817
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 9d6d2fa4f6addf14e8bc595be3fcec41
+  - enabled: 1
+    path: Assets/Scenes/GamePlayAutumn.unity
+    guid: 0fb8dbd73d24c704c9c84e7983e8e1e3
   m_configObjects: {}

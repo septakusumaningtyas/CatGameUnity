@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-03-15T12:26:29.116+07:00
-  initializedAtString: 2020-03-15T11:45:19.348+07:00
+  lastUpdatedAtString: 2020-03-20T19:42:45.751+07:00
+  initializedAtString: 2020-03-20T19:42:45.751+07:00
   currentGitRemote:
     name: origin
     url: https://github.com/septakusumaningtyas/CatGameUnity.git
