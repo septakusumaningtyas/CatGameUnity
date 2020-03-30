@@ -46,6 +46,7 @@ public class PlayerControl : MonoBehaviour
 
     void Start()
     {
+        Time.timeScale = 1f;
         start = transform.position;
         UpdateScoreText();
     }
@@ -70,13 +71,13 @@ public class PlayerControl : MonoBehaviour
         //win or lose
         if (totalHeart <= 0)
         {
-            Lose.SetActive(true);
             Time.timeScale = 0f;
+            Lose.SetActive(true);
         }
         else if (totalFinish >= 1)
         {
-            Win.SetActive(true);
             Time.timeScale = 0f;
+            Win.SetActive(true);
         }
 
     }
