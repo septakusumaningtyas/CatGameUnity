@@ -13,9 +13,57 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-30T15:02:41.971+07:00
-  initializedAtString: 2020-03-30T13:53:41.064+07:00
+  lastUpdatedAtString: 2020-03-30T20:34:18.806+07:00
+  initializedAtString: 2020-03-30T20:34:18.806+07:00
   log:
+  - commitID: 13e2e220b1cf1897adbb085cfdb3ed8cc5c37294
+    mergeA: 
+    mergeB: 
+    authorName: septakusumaningtyas
+    authorEmail: septakusumaningtyas@gmail.com
+    commitEmail: septakusumaningtyas@gmail.com
+    commitName: septakusumaningtyas
+    summary: Timer
+    description: Timer
+    timeString: 2020-03-30T15:03:08.000+07:00
+    commitTimeString: 2020-03-30T15:03:08.000+07:00
+    changes:
+    - path: Assets\Scenes\GamePlayAutumn.unity
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Scenes\GamePlayAutumn.unity
+      projectPath: Assets\Scenes\GamePlayAutumn.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Timer.cs
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Timer.cs
+      projectPath: Assets\Timer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Timer.cs.meta
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Timer.cs.meta
+      projectPath: Assets\Timer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: a3bde8e55729d7306cfe0759396a936a75b7915a
     mergeA: 
     mergeB: 
