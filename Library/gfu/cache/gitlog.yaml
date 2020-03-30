@@ -13,9 +13,117 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-30T13:54:13.116+07:00
+  lastUpdatedAtString: 2020-03-30T15:02:41.971+07:00
   initializedAtString: 2020-03-30T13:53:41.064+07:00
   log:
+  - commitID: a3bde8e55729d7306cfe0759396a936a75b7915a
+    mergeA: 
+    mergeB: 
+    authorName: septakusumaningtyas
+    authorEmail: septakusumaningtyas@gmail.com
+    commitEmail: septakusumaningtyas@gmail.com
+    commitName: septakusumaningtyas
+    summary: Timer
+    description: Timer
+    timeString: 2020-03-30T15:02:04.000+07:00
+    commitTimeString: 2020-03-30T15:02:04.000+07:00
+    changes:
+    - path: Library\ArtifactDB
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\18\186eb00e2e0398adf218c54b92e7d035
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\18\186eb00e2e0398adf218c54b92e7d035
+      projectPath: Library\Artifacts\18\186eb00e2e0398adf218c54b92e7d035
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\5c\5c1438b48bc84b7d76de39d252891dc8
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\5c\5c1438b48bc84b7d76de39d252891dc8
+      projectPath: Library\Artifacts\5c\5c1438b48bc84b7d76de39d252891dc8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\6c\6caa493dd32b9b1427f38e0c2e218e73
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\6c\6caa493dd32b9b1427f38e0c2e218e73
+      projectPath: Library\Artifacts\6c\6caa493dd32b9b1427f38e0c2e218e73
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\eb\eb6e41af88fd68d2ee68b0aa9fc90080
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\eb\eb6e41af88fd68d2ee68b0aa9fc90080
+      projectPath: Library\Artifacts\eb\eb6e41af88fd68d2ee68b0aa9fc90080
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\dfdd77-mainStage.json
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\StateCache\Hierarchy\dfdd77-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\dfdd77-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 48f63539c4c2af3a205681fc28fd5f1b883cee32
     mergeA: 
     mergeB: 
