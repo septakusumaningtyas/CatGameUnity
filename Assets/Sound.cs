@@ -29,5 +29,4 @@ public class Sound : MonoBehaviour
         }
         DontDestroyOnLoad(this.gameObject);
     }
-    
 }

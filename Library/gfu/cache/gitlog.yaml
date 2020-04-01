@@ -13,9 +13,339 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-30T20:34:18.806+07:00
-  initializedAtString: 2020-03-30T20:34:18.806+07:00
+  lastUpdatedAtString: 2020-03-31T11:14:28.588+07:00
+  initializedAtString: 2020-03-31T09:01:10.785+07:00
   log:
+  - commitID: 1a085f450b02201967fe2947b8119b4198257999
+    mergeA: 
+    mergeB: 
+    authorName: septakusumaningtyas
+    authorEmail: septakusumaningtyas@gmail.com
+    commitEmail: septakusumaningtyas@gmail.com
+    commitName: septakusumaningtyas
+    summary: Sound
+    description: Sound
+    timeString: 2020-03-30T20:35:06.000+07:00
+    commitTimeString: 2020-03-30T20:35:06.000+07:00
+    changes:
+    - path: Assets\Plugins\ButtonSoundsEditor.meta
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Plugins\ButtonSoundsEditor.meta
+      projectPath: Assets\Plugins\ButtonSoundsEditor.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Plugins\ButtonSoundsEditor\ButtonClickSound.cs
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Plugins\ButtonSoundsEditor\ButtonClickSound.cs
+      projectPath: Assets\Plugins\ButtonSoundsEditor\ButtonClickSound.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Plugins\ButtonSoundsEditor\ButtonClickSound.cs.meta
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Plugins\ButtonSoundsEditor\ButtonClickSound.cs.meta
+      projectPath: Assets\Plugins\ButtonSoundsEditor\ButtonClickSound.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Plugins\ButtonSoundsEditor\Editor.meta
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Plugins\ButtonSoundsEditor\Editor.meta
+      projectPath: Assets\Plugins\ButtonSoundsEditor\Editor.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Plugins\ButtonSoundsEditor\Editor\ButtonSoundsEditor.cs
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Plugins\ButtonSoundsEditor\Editor\ButtonSoundsEditor.cs
+      projectPath: Assets\Plugins\ButtonSoundsEditor\Editor\ButtonSoundsEditor.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\GamePlayAutumn.unity
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Scenes\GamePlayAutumn.unity
+      projectPath: Assets\Scenes\GamePlayAutumn.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Home.unity
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Scenes\Home.unity
+      projectPath: Assets\Scenes\Home.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Sound.controller
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Sound.controller
+      projectPath: Assets\Sound.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound.controller.meta
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Sound.controller.meta
+      projectPath: Assets\Sound.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound.cs
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Sound.cs
+      projectPath: Assets\Sound.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound.cs.meta
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Sound.cs.meta
+      projectPath: Assets\Sound.cs.meta
+      originalPath: Assets\Plugins\ButtonSoundsEditor\Editor\ButtonSoundsEditor.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\0f\0f3f31a753814e40fb81363949acbf74
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\0f\0f3f31a753814e40fb81363949acbf74
+      projectPath: Library\Artifacts\0f\0f3f31a753814e40fb81363949acbf74
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\13\138e92ce754dc601ae66c1a80f62adf2
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\13\138e92ce754dc601ae66c1a80f62adf2
+      projectPath: Library\Artifacts\13\138e92ce754dc601ae66c1a80f62adf2
+      originalPath: Library\Artifacts\94\947a620098249cf83db700ec9ebccc31
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\2b\2b33684cdd2f58e791bc8367311ba650
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\2b\2b33684cdd2f58e791bc8367311ba650
+      projectPath: Library\Artifacts\2b\2b33684cdd2f58e791bc8367311ba650
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\4a\4a8ea66c918ed6dcf3bc72a5723c9e80
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\4a\4a8ea66c918ed6dcf3bc72a5723c9e80
+      projectPath: Library\Artifacts\4a\4a8ea66c918ed6dcf3bc72a5723c9e80
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\4f\4f290a086277a5346b9b1c8057630bf5
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\4f\4f290a086277a5346b9b1c8057630bf5
+      projectPath: Library\Artifacts\4f\4f290a086277a5346b9b1c8057630bf5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\51\51354fbda0cd824f1f6d29e6545a04c0
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\51\51354fbda0cd824f1f6d29e6545a04c0
+      projectPath: Library\Artifacts\51\51354fbda0cd824f1f6d29e6545a04c0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\5c\5c1438b48bc84b7d76de39d252891dc8
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\5c\5c1438b48bc84b7d76de39d252891dc8
+      projectPath: Library\Artifacts\5c\5c1438b48bc84b7d76de39d252891dc8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\6e\6e6bc74233b0b77452c0ac6b041d2b89
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\6e\6e6bc74233b0b77452c0ac6b041d2b89
+      projectPath: Library\Artifacts\6e\6e6bc74233b0b77452c0ac6b041d2b89
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\7c\7c1661bfa6115e37b2464dbf8ac77dcc
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\7c\7c1661bfa6115e37b2464dbf8ac77dcc
+      projectPath: Library\Artifacts\7c\7c1661bfa6115e37b2464dbf8ac77dcc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\82\823d70d0decb339b7bb5617d39a84bd8
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\82\823d70d0decb339b7bb5617d39a84bd8
+      projectPath: Library\Artifacts\82\823d70d0decb339b7bb5617d39a84bd8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\95\9545ae86c9bd63f864e44bd26aa83a66
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\95\9545ae86c9bd63f864e44bd26aa83a66
+      projectPath: Library\Artifacts\95\9545ae86c9bd63f864e44bd26aa83a66
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\9a\9aef7e097fa880e84852add3f57da5ce
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\9a\9aef7e097fa880e84852add3f57da5ce
+      projectPath: Library\Artifacts\9a\9aef7e097fa880e84852add3f57da5ce
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ac\acc52adb8592a44f072aa7bcc08e7231
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\ac\acc52adb8592a44f072aa7bcc08e7231
+      projectPath: Library\Artifacts\ac\acc52adb8592a44f072aa7bcc08e7231
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ae\aeab378eedaa8c083f263067981828c4
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\ae\aeab378eedaa8c083f263067981828c4
+      projectPath: Library\Artifacts\ae\aeab378eedaa8c083f263067981828c4
+      originalPath: Library\Artifacts\18\186eb00e2e0398adf218c54b92e7d035
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\ba\badd79d3731e50709610509cbb723b8d
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\ba\badd79d3731e50709610509cbb723b8d
+      projectPath: Library\Artifacts\ba\badd79d3731e50709610509cbb723b8d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\bb\bb6ccef8a674b147502ce14077ce7aa2
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\bb\bb6ccef8a674b147502ce14077ce7aa2
+      projectPath: Library\Artifacts\bb\bb6ccef8a674b147502ce14077ce7aa2
+      originalPath: Library\Artifacts\6c\6caa493dd32b9b1427f38e0c2e218e73
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\d0\d0ccdd66667467577bb2cca5a9c23e95
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\d0\d0ccdd66667467577bb2cca5a9c23e95
+      projectPath: Library\Artifacts\d0\d0ccdd66667467577bb2cca5a9c23e95
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\e8\e893789aca863a5a174e97c05c9ff62a
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\e8\e893789aca863a5a174e97c05c9ff62a
+      projectPath: Library\Artifacts\e8\e893789aca863a5a174e97c05c9ff62a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ec\ecb5c0feceda3f1dec3f3fa0f236219f
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\ec\ecb5c0feceda3f1dec3f3fa0f236219f
+      projectPath: Library\Artifacts\ec\ecb5c0feceda3f1dec3f3fa0f236219f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\fe\fec27d2890589b3f91a39fcdbd8c311b
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\fe\fec27d2890589b3f91a39fcdbd8c311b
+      projectPath: Library\Artifacts\fe\fec27d2890589b3f91a39fcdbd8c311b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\831a2f-mainStage.json
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\StateCache\Hierarchy\831a2f-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\831a2f-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\dfdd77-mainStage.json
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\StateCache\Hierarchy\dfdd77-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\dfdd77-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\9063c9-mainStage.json
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\StateCache\SceneView\9063c9-mainStage.json
+      projectPath: Library\StateCache\SceneView\9063c9-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 13e2e220b1cf1897adbb085cfdb3ed8cc5c37294
     mergeA: 
     mergeB: 

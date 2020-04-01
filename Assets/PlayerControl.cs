@@ -26,16 +26,38 @@ public class PlayerControl : MonoBehaviour
     Vector2 start;
 
     public Text scoreText;
-    private int totalScore = 0;
+    public int totalScore = 0;
     public int totalHeart = 3;
-    private int totalFish1 = 0;
-    private int totalFish2 = 0;
+    public int totalFish1 = 0;
+    public int totalFish2 = 0;
     private int totalFinish = 0;
 
     public Image[] heartPlaceholders;
     public Sprite iconHeart;
     public Sprite iconHeartGrey;
-    public GameObject Win,Lose;
+    public GameObject Win, Lose;
+
+    public void SavePlayer()
+    {
+        SaveSystem.SavePlayer(this);
+    }
+
+    public void LoadPlayer()
+    {
+        PlayerData data = SaveSystem.LoadPlayer();
+
+        totalScore = data.totalScore;
+        totalHeart = data.totalHeart;
+        totalFish1 = data.totalFish1;
+        totalFish2 = data.totalFish2;
+
+        Vector3 position;
+        position.x = data.position[0];
+        position.y = data.position[1];
+        position.z = data.position[2];
+        transform.position = position;
+
+    }
 
     void Awake()
     {
