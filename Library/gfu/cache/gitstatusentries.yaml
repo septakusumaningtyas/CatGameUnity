@@ -13,12 +13,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-01T20:44:57.405+07:00
-  initializedAtString: 2020-04-01T20:41:42.164+07:00
+  lastUpdatedAtString: 2020-04-02T10:54:57.525+07:00
+  initializedAtString: 2020-04-02T09:33:00.824+07:00
   entries:
-  - path: Assets\MenuActions.cs
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\MenuActions.cs
-    projectPath: Assets\MenuActions.cs
+  - path: Assets\Button\Load-btn.png
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Button\Load-btn.png
+    projectPath: Assets\Button\Load-btn.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Button\Load-btn.png.meta
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Button\Load-btn.png.meta
+    projectPath: Assets\Button\Load-btn.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Load Button.controller
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Load Button.controller
+    projectPath: Assets\Load Button.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Load Button.controller.meta
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Load Button.controller.meta
+    projectPath: Assets\Load Button.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PausedMenu.cs
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PausedMenu.cs
+    projectPath: Assets\PausedMenu.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -28,507 +52,69 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\PlayerData.cs
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PlayerData.cs
-    projectPath: Assets\PlayerData.cs
+  - path: Assets\PlayerControlAutumn.cs
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PlayerControlAutumn.cs
+    projectPath: Assets\PlayerControlAutumn.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\PlayerData.cs.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PlayerData.cs.meta
-    projectPath: Assets\PlayerData.cs.meta
+  - path: Assets\PlayerControlAutumn.cs.meta
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PlayerControlAutumn.cs.meta
+    projectPath: Assets\PlayerControlAutumn.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\PNG Grass.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass.meta
-    projectPath: Assets\PNG Grass.meta
+  - path: Assets\PlayerDataAutumn.cs
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PlayerDataAutumn.cs
+    projectPath: Assets\PlayerDataAutumn.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\PNG Grass\grassHalf.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\grassHalf.png
-    projectPath: Assets\PNG Grass\grassHalf.png
+  - path: Assets\PlayerDataAutumn.cs.meta
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PlayerDataAutumn.cs.meta
+    projectPath: Assets\PlayerDataAutumn.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\PNG Grass\grassHalf.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\grassHalf.png.meta
-    projectPath: Assets\PNG Grass\grassHalf.png.meta
+  - path: Assets\SaveSystemAutumn.cs
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\SaveSystemAutumn.cs
+    projectPath: Assets\SaveSystemAutumn.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\PNG Grass\grassHalfLeft.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\grassHalfLeft.png
-    projectPath: Assets\PNG Grass\grassHalfLeft.png
+  - path: Assets\SaveSystemAutumn.cs.meta
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\SaveSystemAutumn.cs.meta
+    projectPath: Assets\SaveSystemAutumn.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\PNG Grass\grassHalfLeft.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\grassHalfLeft.png.meta
-    projectPath: Assets\PNG Grass\grassHalfLeft.png.meta
+  - path: Assets\Scenes\GamePlayAutumn.unity
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Scenes\GamePlayAutumn.unity
+    projectPath: Assets\Scenes\GamePlayAutumn.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\grassHalfMid.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\grassHalfMid.png
-    projectPath: Assets\PNG Grass\grassHalfMid.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\grassHalfMid.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\grassHalfMid.png.meta
-    projectPath: Assets\PNG Grass\grassHalfMid.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\grassHalfRight.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\grassHalfRight.png
-    projectPath: Assets\PNG Grass\grassHalfRight.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\grassHalfRight.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\grassHalfRight.png.meta
-    projectPath: Assets\PNG Grass\grassHalfRight.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice01_01.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice01_01.png
-    projectPath: Assets\PNG Grass\slice01_01.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice01_01.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice01_01.png.meta
-    projectPath: Assets\PNG Grass\slice01_01.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice02_02.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice02_02.png
-    projectPath: Assets\PNG Grass\slice02_02.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice02_02.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice02_02.png.meta
-    projectPath: Assets\PNG Grass\slice02_02.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice03_03.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice03_03.png
-    projectPath: Assets\PNG Grass\slice03_03.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice03_03.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice03_03.png.meta
-    projectPath: Assets\PNG Grass\slice03_03.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice04_04.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice04_04.png
-    projectPath: Assets\PNG Grass\slice04_04.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice04_04.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice04_04.png.meta
-    projectPath: Assets\PNG Grass\slice04_04.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice05_05.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice05_05.png
-    projectPath: Assets\PNG Grass\slice05_05.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice05_05.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice05_05.png.meta
-    projectPath: Assets\PNG Grass\slice05_05.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice06_06.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice06_06.png
-    projectPath: Assets\PNG Grass\slice06_06.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice06_06.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice06_06.png.meta
-    projectPath: Assets\PNG Grass\slice06_06.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice07_07.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice07_07.png
-    projectPath: Assets\PNG Grass\slice07_07.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice07_07.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice07_07.png.meta
-    projectPath: Assets\PNG Grass\slice07_07.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice12_12.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice12_12.png
-    projectPath: Assets\PNG Grass\slice12_12.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice12_12.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice12_12.png.meta
-    projectPath: Assets\PNG Grass\slice12_12.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice13_13.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice13_13.png
-    projectPath: Assets\PNG Grass\slice13_13.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice13_13.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice13_13.png.meta
-    projectPath: Assets\PNG Grass\slice13_13.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice14_14.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice14_14.png
-    projectPath: Assets\PNG Grass\slice14_14.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice14_14.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice14_14.png.meta
-    projectPath: Assets\PNG Grass\slice14_14.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice15_15.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice15_15.png
-    projectPath: Assets\PNG Grass\slice15_15.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice15_15.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice15_15.png.meta
-    projectPath: Assets\PNG Grass\slice15_15.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice16_16.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice16_16.png
-    projectPath: Assets\PNG Grass\slice16_16.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice16_16.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice16_16.png.meta
-    projectPath: Assets\PNG Grass\slice16_16.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice17_17.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice17_17.png
-    projectPath: Assets\PNG Grass\slice17_17.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice17_17.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice17_17.png.meta
-    projectPath: Assets\PNG Grass\slice17_17.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice18_18.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice18_18.png
-    projectPath: Assets\PNG Grass\slice18_18.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice18_18.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice18_18.png.meta
-    projectPath: Assets\PNG Grass\slice18_18.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice19_19.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice19_19.png
-    projectPath: Assets\PNG Grass\slice19_19.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice19_19.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice19_19.png.meta
-    projectPath: Assets\PNG Grass\slice19_19.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice20_20.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice20_20.png
-    projectPath: Assets\PNG Grass\slice20_20.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice20_20.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice20_20.png.meta
-    projectPath: Assets\PNG Grass\slice20_20.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice21_21.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice21_21.png
-    projectPath: Assets\PNG Grass\slice21_21.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice21_21.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice21_21.png.meta
-    projectPath: Assets\PNG Grass\slice21_21.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice22_22.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice22_22.png
-    projectPath: Assets\PNG Grass\slice22_22.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice22_22.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice22_22.png.meta
-    projectPath: Assets\PNG Grass\slice22_22.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice23_23.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice23_23.png
-    projectPath: Assets\PNG Grass\slice23_23.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice23_23.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice23_23.png.meta
-    projectPath: Assets\PNG Grass\slice23_23.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice24_24.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice24_24.png
-    projectPath: Assets\PNG Grass\slice24_24.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice24_24.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice24_24.png.meta
-    projectPath: Assets\PNG Grass\slice24_24.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice25_25.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice25_25.png
-    projectPath: Assets\PNG Grass\slice25_25.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice25_25.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice25_25.png.meta
-    projectPath: Assets\PNG Grass\slice25_25.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice26_26.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice26_26.png
-    projectPath: Assets\PNG Grass\slice26_26.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice26_26.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice26_26.png.meta
-    projectPath: Assets\PNG Grass\slice26_26.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice27_27.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice27_27.png
-    projectPath: Assets\PNG Grass\slice27_27.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice27_27.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice27_27.png.meta
-    projectPath: Assets\PNG Grass\slice27_27.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice28_28.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice28_28.png
-    projectPath: Assets\PNG Grass\slice28_28.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice28_28.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice28_28.png.meta
-    projectPath: Assets\PNG Grass\slice28_28.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice29_29.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice29_29.png
-    projectPath: Assets\PNG Grass\slice29_29.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice29_29.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice29_29.png.meta
-    projectPath: Assets\PNG Grass\slice29_29.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice30_30.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice30_30.png
-    projectPath: Assets\PNG Grass\slice30_30.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice30_30.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice30_30.png.meta
-    projectPath: Assets\PNG Grass\slice30_30.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice31_31.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice31_31.png
-    projectPath: Assets\PNG Grass\slice31_31.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice31_31.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice31_31.png.meta
-    projectPath: Assets\PNG Grass\slice31_31.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice32_32.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice32_32.png
-    projectPath: Assets\PNG Grass\slice32_32.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice32_32.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice32_32.png.meta
-    projectPath: Assets\PNG Grass\slice32_32.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice33_33.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice33_33.png
-    projectPath: Assets\PNG Grass\slice33_33.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice33_33.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice33_33.png.meta
-    projectPath: Assets\PNG Grass\slice33_33.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice34_34.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice34_34.png
-    projectPath: Assets\PNG Grass\slice34_34.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice34_34.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice34_34.png.meta
-    projectPath: Assets\PNG Grass\slice34_34.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice35_35.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice35_35.png
-    projectPath: Assets\PNG Grass\slice35_35.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice35_35.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice35_35.png.meta
-    projectPath: Assets\PNG Grass\slice35_35.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice36_36.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice36_36.png
-    projectPath: Assets\PNG Grass\slice36_36.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\slice36_36.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\slice36_36.png.meta
-    projectPath: Assets\PNG Grass\slice36_36.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\Spritesheet.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\Spritesheet.meta
-    projectPath: Assets\PNG Grass\Spritesheet.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\Spritesheet\sheet.png
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\Spritesheet\sheet.png
-    projectPath: Assets\PNG Grass\Spritesheet\sheet.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\Spritesheet\sheet.png.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\Spritesheet\sheet.png.meta
-    projectPath: Assets\PNG Grass\Spritesheet\sheet.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\Spritesheet\sheet.xml
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\Spritesheet\sheet.xml
-    projectPath: Assets\PNG Grass\Spritesheet\sheet.xml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\PNG Grass\Spritesheet\sheet.xml.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\PNG Grass\Spritesheet\sheet.xml.meta
-    projectPath: Assets\PNG Grass\Spritesheet\sheet.xml.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveSystem.cs
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\SaveSystem.cs
-    projectPath: Assets\SaveSystem.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\SaveSystem.cs.meta
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\SaveSystem.cs.meta
-    projectPath: Assets\SaveSystem.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\GamePlaySpring.unity
     fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Scenes\GamePlaySpring.unity
     projectPath: Assets\Scenes\GamePlaySpring.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Sound.cs
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Sound.cs
-    projectPath: Assets\Sound.cs
+  - path: Assets\Scenes\Home.unity
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Scenes\Home.unity
+    projectPath: Assets\Scenes\Home.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Instruction.unity
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Scenes\Instruction.unity
+    projectPath: Assets\Scenes\Instruction.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Level.unity
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Assets\Scenes\Level.unity
+    projectPath: Assets\Scenes\Level.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -538,381 +124,147 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\02\02a0d1bef619d57352c23ee4e78bfa99
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\02\02a0d1bef619d57352c23ee4e78bfa99
-    projectPath: Library\Artifacts\02\02a0d1bef619d57352c23ee4e78bfa99
+  - path: Library\Artifacts\01\01a447f5773a3736879fa9f3d049bc1b
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\01\01a447f5773a3736879fa9f3d049bc1b
+    projectPath: Library\Artifacts\01\01a447f5773a3736879fa9f3d049bc1b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\06\065ba4e7f7971b41ae64bcc2c8e70526
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\06\065ba4e7f7971b41ae64bcc2c8e70526
-    projectPath: Library\Artifacts\06\065ba4e7f7971b41ae64bcc2c8e70526
+  - path: Library\Artifacts\04\04eb3c2ce3448226af5930942aca5c05
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\04\04eb3c2ce3448226af5930942aca5c05
+    projectPath: Library\Artifacts\04\04eb3c2ce3448226af5930942aca5c05
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\08\084e1f95163d62b03527dda89549f0a4
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\08\084e1f95163d62b03527dda89549f0a4
-    projectPath: Library\Artifacts\08\084e1f95163d62b03527dda89549f0a4
+  - path: Library\Artifacts\0f\0ffcc4282ecf44d279fa48f4677dba42
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\0f\0ffcc4282ecf44d279fa48f4677dba42
+    projectPath: Library\Artifacts\0f\0ffcc4282ecf44d279fa48f4677dba42
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\0a\0a3e4b6159b10824cb589ef3241f5c3c
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\0a\0a3e4b6159b10824cb589ef3241f5c3c
-    projectPath: Library\Artifacts\0a\0a3e4b6159b10824cb589ef3241f5c3c
+  - path: Library\Artifacts\1a\1ad8d8ab2431d69c5fb5923f040709f8
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\1a\1ad8d8ab2431d69c5fb5923f040709f8
+    projectPath: Library\Artifacts\1a\1ad8d8ab2431d69c5fb5923f040709f8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\0c\0ce0c47ea209d22cf023159ca4fef0fb
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\0c\0ce0c47ea209d22cf023159ca4fef0fb
-    projectPath: Library\Artifacts\0c\0ce0c47ea209d22cf023159ca4fef0fb
+  - path: Library\Artifacts\1f\1fead4b14cdda9059c3238e27bd586b8
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\1f\1fead4b14cdda9059c3238e27bd586b8
+    projectPath: Library\Artifacts\1f\1fead4b14cdda9059c3238e27bd586b8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\0e\0efc365d0b834bad253608286f2522c1
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\0e\0efc365d0b834bad253608286f2522c1
-    projectPath: Library\Artifacts\0e\0efc365d0b834bad253608286f2522c1
+  - path: Library\Artifacts\2f\2f518e9f1c512ad78eb8665a93b1da21
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\2f\2f518e9f1c512ad78eb8665a93b1da21
+    projectPath: Library\Artifacts\2f\2f518e9f1c512ad78eb8665a93b1da21
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\10\102321c1ae7b6487322ebfe6e4e23a79
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\10\102321c1ae7b6487322ebfe6e4e23a79
-    projectPath: Library\Artifacts\10\102321c1ae7b6487322ebfe6e4e23a79
+  - path: Library\Artifacts\33\332a8729abf690bd10017efd2cea4c51
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\33\332a8729abf690bd10017efd2cea4c51
+    projectPath: Library\Artifacts\33\332a8729abf690bd10017efd2cea4c51
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\13\13343891b9a54bacb7671ba40d872daf
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\13\13343891b9a54bacb7671ba40d872daf
-    projectPath: Library\Artifacts\13\13343891b9a54bacb7671ba40d872daf
+  - path: Library\Artifacts\43\431ae29e8ad6d7f1209adb064fd7e402
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\43\431ae29e8ad6d7f1209adb064fd7e402
+    projectPath: Library\Artifacts\43\431ae29e8ad6d7f1209adb064fd7e402
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\13\138e92ce754dc601ae66c1a80f62adf2
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\13\138e92ce754dc601ae66c1a80f62adf2
-    projectPath: Library\Artifacts\13\138e92ce754dc601ae66c1a80f62adf2
+  - path: Library\Artifacts\53\5385795ce126d769aeac2852498c2d85
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\53\5385795ce126d769aeac2852498c2d85
+    projectPath: Library\Artifacts\53\5385795ce126d769aeac2852498c2d85
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\64\64bbb5aa006ee881c1cac02f0f3b443a
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\64\64bbb5aa006ee881c1cac02f0f3b443a
+    projectPath: Library\Artifacts\64\64bbb5aa006ee881c1cac02f0f3b443a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\14\140e9d2ca405b2f497ec229e780f8a81
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\14\140e9d2ca405b2f497ec229e780f8a81
-    projectPath: Library\Artifacts\14\140e9d2ca405b2f497ec229e780f8a81
+  - path: Library\Artifacts\65\650e71f130bd6582ccec54282fa0df34
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\65\650e71f130bd6582ccec54282fa0df34
+    projectPath: Library\Artifacts\65\650e71f130bd6582ccec54282fa0df34
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\14\1468288e4e3f07057ab1870248787f10
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\14\1468288e4e3f07057ab1870248787f10
-    projectPath: Library\Artifacts\14\1468288e4e3f07057ab1870248787f10
+  - path: Library\Artifacts\79\79926157da904485679d6fd490fb2a8d
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\79\79926157da904485679d6fd490fb2a8d
+    projectPath: Library\Artifacts\79\79926157da904485679d6fd490fb2a8d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\1f\1f8a7225a96ce79b3cc9de81b0e0883e
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\1f\1f8a7225a96ce79b3cc9de81b0e0883e
-    projectPath: Library\Artifacts\1f\1f8a7225a96ce79b3cc9de81b0e0883e
+  - path: Library\Artifacts\7a\7a884a9d22df9d8597b1e8209241f04f
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\7a\7a884a9d22df9d8597b1e8209241f04f
+    projectPath: Library\Artifacts\7a\7a884a9d22df9d8597b1e8209241f04f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\1f\1fe9a0ce006e1cb8e90f6bcbf8626dc3
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\1f\1fe9a0ce006e1cb8e90f6bcbf8626dc3
-    projectPath: Library\Artifacts\1f\1fe9a0ce006e1cb8e90f6bcbf8626dc3
+  - path: Library\Artifacts\7c\7c1711455ece3bfd10db6a8aa80b5a5a
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\7c\7c1711455ece3bfd10db6a8aa80b5a5a
+    projectPath: Library\Artifacts\7c\7c1711455ece3bfd10db6a8aa80b5a5a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\20\206eb62ca1308354af3f267fc9190f30
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\20\206eb62ca1308354af3f267fc9190f30
-    projectPath: Library\Artifacts\20\206eb62ca1308354af3f267fc9190f30
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\27\27a1bdcce889242e7212cae67de5328f
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\27\27a1bdcce889242e7212cae67de5328f
-    projectPath: Library\Artifacts\27\27a1bdcce889242e7212cae67de5328f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2d\2d9da3a01b2e57eb3f30bbfcf2764bac
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\2d\2d9da3a01b2e57eb3f30bbfcf2764bac
-    projectPath: Library\Artifacts\2d\2d9da3a01b2e57eb3f30bbfcf2764bac
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\31\31f36c52071730ced93b1b257f767123
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\31\31f36c52071730ced93b1b257f767123
-    projectPath: Library\Artifacts\31\31f36c52071730ced93b1b257f767123
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\32\3234169d21786cec38261360cb5d8056
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\32\3234169d21786cec38261360cb5d8056
-    projectPath: Library\Artifacts\32\3234169d21786cec38261360cb5d8056
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\35\3561859d702bdaab6d955fb95eea5f09
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\35\3561859d702bdaab6d955fb95eea5f09
-    projectPath: Library\Artifacts\35\3561859d702bdaab6d955fb95eea5f09
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3a\3a566e75085ee320e00a7e7f0c438070
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\3a\3a566e75085ee320e00a7e7f0c438070
-    projectPath: Library\Artifacts\3a\3a566e75085ee320e00a7e7f0c438070
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3c\3c03d7ca982e940df0ef569707320ac9
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\3c\3c03d7ca982e940df0ef569707320ac9
-    projectPath: Library\Artifacts\3c\3c03d7ca982e940df0ef569707320ac9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3f\3f4b9b1c9d8c0a5980ed91fa74da063c
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\3f\3f4b9b1c9d8c0a5980ed91fa74da063c
-    projectPath: Library\Artifacts\3f\3f4b9b1c9d8c0a5980ed91fa74da063c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\41\41f1eae43e01e25cd3d88374ae7fe241
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\41\41f1eae43e01e25cd3d88374ae7fe241
-    projectPath: Library\Artifacts\41\41f1eae43e01e25cd3d88374ae7fe241
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\42\4285b04581eceef3fc00f9b74703703b
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\42\4285b04581eceef3fc00f9b74703703b
-    projectPath: Library\Artifacts\42\4285b04581eceef3fc00f9b74703703b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\46\46275ae370a7ea91583564db096b0426
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\46\46275ae370a7ea91583564db096b0426
-    projectPath: Library\Artifacts\46\46275ae370a7ea91583564db096b0426
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\58\58cb80f57c15462479d635f45d8ae322
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\58\58cb80f57c15462479d635f45d8ae322
-    projectPath: Library\Artifacts\58\58cb80f57c15462479d635f45d8ae322
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5a\5a40ca7c0b6faf776c1c9d6c4bb1b0c0
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\5a\5a40ca7c0b6faf776c1c9d6c4bb1b0c0
-    projectPath: Library\Artifacts\5a\5a40ca7c0b6faf776c1c9d6c4bb1b0c0
+  - path: Library\Artifacts\8e\8e488a944506203a8b930f60f606d5ca
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\8e\8e488a944506203a8b930f60f606d5ca
+    projectPath: Library\Artifacts\8e\8e488a944506203a8b930f60f606d5ca
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\62\624fc77e7354437a741708599a269f67
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\62\624fc77e7354437a741708599a269f67
-    projectPath: Library\Artifacts\62\624fc77e7354437a741708599a269f67
+  - path: Library\Artifacts\90\90d7f83fe449c7fb546e35ceec336ba1
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\90\90d7f83fe449c7fb546e35ceec336ba1
+    projectPath: Library\Artifacts\90\90d7f83fe449c7fb546e35ceec336ba1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\65\651bd64d4f4572e7736278fe841fda3b
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\65\651bd64d4f4572e7736278fe841fda3b
-    projectPath: Library\Artifacts\65\651bd64d4f4572e7736278fe841fda3b
+  - path: Library\Artifacts\96\96fbbc4d70acd0059ca9063ffd2f5a8b
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\96\96fbbc4d70acd0059ca9063ffd2f5a8b
+    projectPath: Library\Artifacts\96\96fbbc4d70acd0059ca9063ffd2f5a8b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\67\6769d4f10814c531e38ae399f4837164
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\67\6769d4f10814c531e38ae399f4837164
-    projectPath: Library\Artifacts\67\6769d4f10814c531e38ae399f4837164
+  - path: Library\Artifacts\98\98085c0bb7afdce41ca55b56b1bcdb22
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\98\98085c0bb7afdce41ca55b56b1bcdb22
+    projectPath: Library\Artifacts\98\98085c0bb7afdce41ca55b56b1bcdb22
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\6c\6c0189c784f99c5e06a6c56a06603c18
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\6c\6c0189c784f99c5e06a6c56a06603c18
-    projectPath: Library\Artifacts\6c\6c0189c784f99c5e06a6c56a06603c18
+  - path: Library\Artifacts\9e\9eee8881b6b70a4efdd4e08de0f15767
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\9e\9eee8881b6b70a4efdd4e08de0f15767
+    projectPath: Library\Artifacts\9e\9eee8881b6b70a4efdd4e08de0f15767
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\6e\6e39c1ce2c4a78ad8716013d03a9ba5e
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\6e\6e39c1ce2c4a78ad8716013d03a9ba5e
-    projectPath: Library\Artifacts\6e\6e39c1ce2c4a78ad8716013d03a9ba5e
+  - path: Library\Artifacts\a7\a72e66db979307975b53c683cc7d11fa
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\a7\a72e66db979307975b53c683cc7d11fa
+    projectPath: Library\Artifacts\a7\a72e66db979307975b53c683cc7d11fa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\6f\6faa5822b0647590d98e352258eb600a
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\6f\6faa5822b0647590d98e352258eb600a
-    projectPath: Library\Artifacts\6f\6faa5822b0647590d98e352258eb600a
+  - path: Library\Artifacts\b1\b175fcfc6d3d0fad28e88e49390c0b18
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\b1\b175fcfc6d3d0fad28e88e49390c0b18
+    projectPath: Library\Artifacts\b1\b175fcfc6d3d0fad28e88e49390c0b18
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\73\73838638b0188c2d2c3fd95baa990d5d
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\73\73838638b0188c2d2c3fd95baa990d5d
-    projectPath: Library\Artifacts\73\73838638b0188c2d2c3fd95baa990d5d
+  - path: Library\Artifacts\bc\bc0e6e1d4496de00a697d5af3f99d373
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\bc\bc0e6e1d4496de00a697d5af3f99d373
+    projectPath: Library\Artifacts\bc\bc0e6e1d4496de00a697d5af3f99d373
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\76\76731741eff6cd71ec96666289348191
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\76\76731741eff6cd71ec96666289348191
-    projectPath: Library\Artifacts\76\76731741eff6cd71ec96666289348191
+  - path: Library\Artifacts\bd\bd4f323e2559bffb35f220bd4fc7e016
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\bd\bd4f323e2559bffb35f220bd4fc7e016
+    projectPath: Library\Artifacts\bd\bd4f323e2559bffb35f220bd4fc7e016
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\77\779a566238359165f2c8692a8e4fc1c0
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\77\779a566238359165f2c8692a8e4fc1c0
-    projectPath: Library\Artifacts\77\779a566238359165f2c8692a8e4fc1c0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\78\7875975ed5287d45451505f94d9a2651
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\78\7875975ed5287d45451505f94d9a2651
-    projectPath: Library\Artifacts\78\7875975ed5287d45451505f94d9a2651
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7e\7eb1254c25e70c0aea4370f5f9263344
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\7e\7eb1254c25e70c0aea4370f5f9263344
-    projectPath: Library\Artifacts\7e\7eb1254c25e70c0aea4370f5f9263344
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\86\865b035d3ec8cb5fd4f46737b076121a
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\86\865b035d3ec8cb5fd4f46737b076121a
-    projectPath: Library\Artifacts\86\865b035d3ec8cb5fd4f46737b076121a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\88\881615624b541df7f9c29a6db0ca8991
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\88\881615624b541df7f9c29a6db0ca8991
-    projectPath: Library\Artifacts\88\881615624b541df7f9c29a6db0ca8991
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\88\881a5613383eabb96314c835b1da4a0f
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\88\881a5613383eabb96314c835b1da4a0f
-    projectPath: Library\Artifacts\88\881a5613383eabb96314c835b1da4a0f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\89\899b64e56f68c3d5f20d8dd0e207d931
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\89\899b64e56f68c3d5f20d8dd0e207d931
-    projectPath: Library\Artifacts\89\899b64e56f68c3d5f20d8dd0e207d931
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8b\8bba3e93e9b67a1ef4f4fe74cf99e2eb
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\8b\8bba3e93e9b67a1ef4f4fe74cf99e2eb
-    projectPath: Library\Artifacts\8b\8bba3e93e9b67a1ef4f4fe74cf99e2eb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8c\8ca6f176993ff770bda3ca5595eb5dce
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\8c\8ca6f176993ff770bda3ca5595eb5dce
-    projectPath: Library\Artifacts\8c\8ca6f176993ff770bda3ca5595eb5dce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8f\8f8966a48a63c07700add80ad017dac9
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\8f\8f8966a48a63c07700add80ad017dac9
-    projectPath: Library\Artifacts\8f\8f8966a48a63c07700add80ad017dac9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\92\92b1d012e039b3df79ceb5e73a38113b
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\92\92b1d012e039b3df79ceb5e73a38113b
-    projectPath: Library\Artifacts\92\92b1d012e039b3df79ceb5e73a38113b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\93\9366ef1103a6f2db307370ae624e9696
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\93\9366ef1103a6f2db307370ae624e9696
-    projectPath: Library\Artifacts\93\9366ef1103a6f2db307370ae624e9696
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a3\a382943084cc2ebd1558d9fc7b5548e4
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\a3\a382943084cc2ebd1558d9fc7b5548e4
-    projectPath: Library\Artifacts\a3\a382943084cc2ebd1558d9fc7b5548e4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a7\a7e1ccbca50b63854c05ce5d31bf2353
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\a7\a7e1ccbca50b63854c05ce5d31bf2353
-    projectPath: Library\Artifacts\a7\a7e1ccbca50b63854c05ce5d31bf2353
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\aa\aa88c2b9c4944a1d210fc6ac822d734a
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\aa\aa88c2b9c4944a1d210fc6ac822d734a
-    projectPath: Library\Artifacts\aa\aa88c2b9c4944a1d210fc6ac822d734a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ae\aeab378eedaa8c083f263067981828c4
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\ae\aeab378eedaa8c083f263067981828c4
-    projectPath: Library\Artifacts\ae\aeab378eedaa8c083f263067981828c4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bb\bb6ccef8a674b147502ce14077ce7aa2
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\bb\bb6ccef8a674b147502ce14077ce7aa2
-    projectPath: Library\Artifacts\bb\bb6ccef8a674b147502ce14077ce7aa2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bb\bbe183d77b163d07c91fb699b7076534
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\bb\bbe183d77b163d07c91fb699b7076534
-    projectPath: Library\Artifacts\bb\bbe183d77b163d07c91fb699b7076534
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c0\c022e4d819b70173e02c12b1388980f5
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\c0\c022e4d819b70173e02c12b1388980f5
-    projectPath: Library\Artifacts\c0\c022e4d819b70173e02c12b1388980f5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c4\c469905e15ef9a23bf7ddc5e835e2106
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\c4\c469905e15ef9a23bf7ddc5e835e2106
-    projectPath: Library\Artifacts\c4\c469905e15ef9a23bf7ddc5e835e2106
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c5\c566e1c27930d23934adda223bb77dc7
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\c5\c566e1c27930d23934adda223bb77dc7
-    projectPath: Library\Artifacts\c5\c566e1c27930d23934adda223bb77dc7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c6\c6877506d9052f7ae8bdb8f18086f49a
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\c6\c6877506d9052f7ae8bdb8f18086f49a
-    projectPath: Library\Artifacts\c6\c6877506d9052f7ae8bdb8f18086f49a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d0\d02d22e3483c44aa3613ba97bdd6c1bb
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\d0\d02d22e3483c44aa3613ba97bdd6c1bb
-    projectPath: Library\Artifacts\d0\d02d22e3483c44aa3613ba97bdd6c1bb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d0\d078c74e64045db0e81044ddc9e94a18
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\d0\d078c74e64045db0e81044ddc9e94a18
-    projectPath: Library\Artifacts\d0\d078c74e64045db0e81044ddc9e94a18
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d2\d2d1a59682b6f0c1cd49074559fe9cf7
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\d2\d2d1a59682b6f0c1cd49074559fe9cf7
-    projectPath: Library\Artifacts\d2\d2d1a59682b6f0c1cd49074559fe9cf7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d3\d37952ef319946af3559b9c9135ec024
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\d3\d37952ef319946af3559b9c9135ec024
-    projectPath: Library\Artifacts\d3\d37952ef319946af3559b9c9135ec024
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d5\d540f6aba9465a37e3da62d674436d67
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\d5\d540f6aba9465a37e3da62d674436d67
-    projectPath: Library\Artifacts\d5\d540f6aba9465a37e3da62d674436d67
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d9\d95571b595ad35b6aff4d7b6c2ba21ef
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\d9\d95571b595ad35b6aff4d7b6c2ba21ef
-    projectPath: Library\Artifacts\d9\d95571b595ad35b6aff4d7b6c2ba21ef
+  - path: Library\Artifacts\da\da0503e4d7028b04df75cb033a8cc92c
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\da\da0503e4d7028b04df75cb033a8cc92c
+    projectPath: Library\Artifacts\da\da0503e4d7028b04df75cb033a8cc92c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -920,35 +272,23 @@ MonoBehaviour:
     fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\e4\e4be60f3c2b22d24e8f323585fc1f593
     projectPath: Library\Artifacts\e4\e4be60f3c2b22d24e8f323585fc1f593
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e7\e7244c2a41e63e8c7c879c6b22fbeacc
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\e7\e7244c2a41e63e8c7c879c6b22fbeacc
-    projectPath: Library\Artifacts\e7\e7244c2a41e63e8c7c879c6b22fbeacc
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e9\e9f9703f76862fef714585aca3d204c9
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\e9\e9f9703f76862fef714585aca3d204c9
+    projectPath: Library\Artifacts\e9\e9f9703f76862fef714585aca3d204c9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\ee\ee29ef3427b555b145eee20e67713a1c
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\ee\ee29ef3427b555b145eee20e67713a1c
-    projectPath: Library\Artifacts\ee\ee29ef3427b555b145eee20e67713a1c
+  - path: Library\Artifacts\f0\f0144d56c2dd896a088a1d87371fadfb
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\f0\f0144d56c2dd896a088a1d87371fadfb
+    projectPath: Library\Artifacts\f0\f0144d56c2dd896a088a1d87371fadfb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f4\f42f72085d4dd3d3d8c10ddf3f7405e1
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\f4\f42f72085d4dd3d3d8c10ddf3f7405e1
-    projectPath: Library\Artifacts\f4\f42f72085d4dd3d3d8c10ddf3f7405e1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f6\f6716a1bbaf01d13196d3e89b214e794
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\f6\f6716a1bbaf01d13196d3e89b214e794
-    projectPath: Library\Artifacts\f6\f6716a1bbaf01d13196d3e89b214e794
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fb\fb7d564092ac9af6b2baaf5a2a7f72cf
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\fb\fb7d564092ac9af6b2baaf5a2a7f72cf
-    projectPath: Library\Artifacts\fb\fb7d564092ac9af6b2baaf5a2a7f72cf
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f7\f71a47430ab0dfe24e8a81d854ae0138
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\Artifacts\f7\f71a47430ab0dfe24e8a81d854ae0138
+    projectPath: Library\Artifacts\f7\f71a47430ab0dfe24e8a81d854ae0138
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -994,21 +334,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1021,6 +355,90 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
     fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1042,27 +460,117 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\9063c9-mainStage.json
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Library\StateCache\SceneView\9063c9-mainStage.json
-    projectPath: Library\StateCache\SceneView\9063c9-mainStage.json
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-9cc5730793787b94eb3643108a7f1f16
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-9cc5730793787b94eb3643108a7f1f16
-    projectPath: Temp\UnityTempFile-9cc5730793787b94eb3643108a7f1f16
+  - path: Temp\UnityTempFile-176f938481bb75c49ad3aa937b70d539
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-176f938481bb75c49ad3aa937b70d539
+    projectPath: Temp\UnityTempFile-176f938481bb75c49ad3aa937b70d539
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-e5e81c6383355a64e8d03bac84c5054b
-    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-e5e81c6383355a64e8d03bac84c5054b
-    projectPath: Temp\UnityTempFile-e5e81c6383355a64e8d03bac84c5054b
+  - path: Temp\UnityTempFile-1d28f9ad5eb61914cb1cd80da1f67e5e
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-1d28f9ad5eb61914cb1cd80da1f67e5e
+    projectPath: Temp\UnityTempFile-1d28f9ad5eb61914cb1cd80da1f67e5e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-232a461a32b69514181cc87819d93495
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-232a461a32b69514181cc87819d93495
+    projectPath: Temp\UnityTempFile-232a461a32b69514181cc87819d93495
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-37b2f622ff3085948b78836803dcaeeb
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-37b2f622ff3085948b78836803dcaeeb
+    projectPath: Temp\UnityTempFile-37b2f622ff3085948b78836803dcaeeb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5fabc9c98bc820847a2365ae42fe61cb
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-5fabc9c98bc820847a2365ae42fe61cb
+    projectPath: Temp\UnityTempFile-5fabc9c98bc820847a2365ae42fe61cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6456b8fd671229c428534d7d81f626b5
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-6456b8fd671229c428534d7d81f626b5
+    projectPath: Temp\UnityTempFile-6456b8fd671229c428534d7d81f626b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-680bbd0a2f2195b4491d03bd292d10e0
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-680bbd0a2f2195b4491d03bd292d10e0
+    projectPath: Temp\UnityTempFile-680bbd0a2f2195b4491d03bd292d10e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8b75ee3cef52d1647a7db3478428e0fc
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-8b75ee3cef52d1647a7db3478428e0fc
+    projectPath: Temp\UnityTempFile-8b75ee3cef52d1647a7db3478428e0fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8e39e664a6e87ed47ad19be14c34fbea
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-8e39e664a6e87ed47ad19be14c34fbea
+    projectPath: Temp\UnityTempFile-8e39e664a6e87ed47ad19be14c34fbea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-94593fb987307f74cae4a1970276597b
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-94593fb987307f74cae4a1970276597b
+    projectPath: Temp\UnityTempFile-94593fb987307f74cae4a1970276597b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a0c37e94971a30d4ca3bf4d49346e32e
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-a0c37e94971a30d4ca3bf4d49346e32e
+    projectPath: Temp\UnityTempFile-a0c37e94971a30d4ca3bf4d49346e32e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a3a5ceb280f54424493eba5f7ac346c6
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-a3a5ceb280f54424493eba5f7ac346c6
+    projectPath: Temp\UnityTempFile-a3a5ceb280f54424493eba5f7ac346c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a963adb91fedd9347b527e03df166811
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-a963adb91fedd9347b527e03df166811
+    projectPath: Temp\UnityTempFile-a963adb91fedd9347b527e03df166811
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b1613bdc488020648ac1e77f03857db7
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-b1613bdc488020648ac1e77f03857db7
+    projectPath: Temp\UnityTempFile-b1613bdc488020648ac1e77f03857db7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c721f6c6a34d62147a21e0f09eb11ca0
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-c721f6c6a34d62147a21e0f09eb11ca0
+    projectPath: Temp\UnityTempFile-c721f6c6a34d62147a21e0f09eb11ca0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d44fb306617ceb34ebbd2205913a0d71
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-d44fb306617ceb34ebbd2205913a0d71
+    projectPath: Temp\UnityTempFile-d44fb306617ceb34ebbd2205913a0d71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fb5882cf84086ef4983f05dddd2a2ef4
+    fullPath: F:\DOC\KOMPUTASI MULTIMEDIA\UTS\CatGame\Temp\UnityTempFile-fb5882cf84086ef4983f05dddd2a2ef4
+    projectPath: Temp\UnityTempFile-fb5882cf84086ef4983f05dddd2a2ef4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
